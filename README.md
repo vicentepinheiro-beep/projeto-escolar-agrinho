@@ -1,1 +1,1 @@
-Esse projeto foi criado para falar e argumentas sobre o projeto agrinho 2026, em um site web
+Esse projeto foi criado para falar e argumentar sobre o Projeto Agrinho 2026, em um website de blog
